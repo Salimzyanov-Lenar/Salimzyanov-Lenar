@@ -1,6 +1,6 @@
 <h3 align="left">Backend developer</h3>
 
-- I’m currently learning **FastAPI, sqlalchemy**
+- I’m currently learning **FastAPI, sqlalchemy** 👀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://t.me/Salimzyanov_Lenar">@Salimzyanov_lenar</a>
