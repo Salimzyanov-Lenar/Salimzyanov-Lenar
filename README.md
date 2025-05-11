@@ -1,6 +1,6 @@
 <h3 align="left">Backend developer</h3>
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://t.me/Salimzyanov_Lenar">@Salimzyanov_lenar</a>
+<p align="left"><a href="https://t.me/Salimzyanov_Lenar">@Salimzyanov_Lenar</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
